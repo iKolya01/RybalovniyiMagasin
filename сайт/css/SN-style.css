@@ -14,9 +14,11 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 70px;
-  background: url(../img/bg_foot.png) repeat-x top left;
 }
 
 
 /*SN-Style block*/
 p{text-indent: 25px; text-align: justify;}
+.footer{background: url(../img/bg_foot.png) repeat-x top left;}
+body{background: url(../img/bg_body.png) repeat top left;}
+.head{background: url(../img/bg_head.png) repeat-x top left; margin-top: -10px; padding-top: 10px;}
